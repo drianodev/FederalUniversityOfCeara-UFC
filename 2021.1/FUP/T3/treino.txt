@@ -1,0 +1,13 @@
+Fulano Ciclano
+10-10-2010
+Peso: 75kg
+Agachamento: 0kg,6;20kg,6;40kg,6;60kg,6;75kg,6;75kg,6;75kg,6
+Flexoes: 0kg,10;0kg,10;0kg,10
+21-12-2011
+Agachamento: 0kg,6;20kg,6;40kg,6;60kg,6;75kg,6;75kg,6;75kg,6
+Supino: 55kg,6;44kg,10
+21-11-2010
+Peso: 76kg
+Agachamento: 0kg,6;20kg,6;40kg,6;60kg,6;75kg,6;75kg,6;75kg,6
+Supino: 55kg,6;44kg,10
+

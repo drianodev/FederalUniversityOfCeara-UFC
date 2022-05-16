@@ -1,0 +1,14 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "cSpell.words": [
+        "contador",
+        "maior",
+        "número",
+        "outro",
+        "perfeitos",
+        "QUESTÃO"
+    ],
+    "files.associations": {
+        "time.h": "c"
+    }
+}
